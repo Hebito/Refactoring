@@ -1,0 +1,4 @@
+﻿Unit testing is a software development process where one tests individual parts of codes, like methods, to make sure it works as expected. 
+UT is very important to make sure the foundation of low-level coding is correct and reliable. Esepcially with bigger projects, 
+programmers want to know that their foundation code is dependable and future bugs are less likely to occur from it. 
+It also helps find early bugs and solidifies less problematic situation later on. 
